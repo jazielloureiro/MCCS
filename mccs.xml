@@ -3,7 +3,7 @@
 <style-scheme id="MCCS" _name="My Custom Color Scheme" version="1.0">
 
   <author>Jaziel Loureiro</author>
-  <_description>My custom gedit color scheme</_description>
+  <_description>My custom Gedit color scheme</_description>
 
   <!-- Palette -->
   <color name="white"      value="#d0d0d0"/>
@@ -73,8 +73,8 @@
   <style name="def:deletion"             strikethrough="true"/>
   <style name="def:link-text"            foreground="light-gray"/>
   <style name="def:link-symbol"          foreground="light-gray" bold="true"/>
-  <style name="def:link-destination"     italic="true"           underline="single"/>
-  <style name="def:heading"              foreground="green"      bold="true"/>
+  <style name="def:link-destination"     foreground="yellow"     italic="true"/>
+  <style name="def:heading"              foreground="green"/>
   <style name="def:thematic-break"       foreground="green"      bold="true"/>
   <style name="def:preformatted-section" foreground="cyan"/>
   <style name="def:list-marker"          foreground="light-red"/>
