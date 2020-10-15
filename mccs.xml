@@ -38,7 +38,7 @@
 
   <!-- Comments -->
   <style name="def:comment" foreground="light-gray"/>
-  <style name="def:shebang" foreground="cyan"/>
+  <style name="def:shebang" foreground="blue"/>
 
   <!-- Constants -->
   <style name="def:constant"         foreground="blue"/>
