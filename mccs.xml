@@ -54,7 +54,6 @@
 
   <!-- Statements -->
   <style name="def:statement" foreground="cyan"/>
-  <style name="def:operator"  foreground="purple"/>
 
   <!-- Types -->
   <style name="def:type" foreground="green"/>
