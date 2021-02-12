@@ -17,7 +17,3 @@
 3. Move `mccs.xml` to your Gedit styles directory:
 
 `$ mv mccs.xml ~/.local/share/gedit/styles/`
-
-Or, if You've cloned this repository, You can run the install script:
-
-`$ chmod +x install.sh && ./install.sh`
