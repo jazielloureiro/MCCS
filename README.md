@@ -1,19 +1,20 @@
-# My custom Gedit color scheme
+# MCCS
 
-## Example
+My custom Gedit color scheme
 
-![example](https://i.ibb.co/t2K6J6L/example.png)
+## Screenshot
 
-## Install
+![Screenshot](https://i.ibb.co/9pDZL2w/gedit-c.png)
 
-1. Download the `mccs.xml` file:
+## Installation
 
-`$ wget https://raw.githubusercontent.com/jazielloureiro/MCCS-Gedit/master/mccs.xml`
+Add `mccs.xml` to your Gedit styles directory:
 
-2. Create the Gedit styles directory (if You don't have):
+```sh
+curl -o ~/.local/share/gedit/styles/mccs.xml --create-dirs \
+    https://raw.githubusercontent.com/jazielloureiro/MCCS-Gedit/master/mccs.xml
+```
 
-`$ mkdir -p ~/.local/share/gedit/styles/`
+## License
 
-3. Move `mccs.xml` to your Gedit styles directory:
-
-`$ mv mccs.xml ~/.local/share/gedit/styles/`
+[MIT](https://github.com/jazielloureiro/MCCS-Gedit/blob/master/LICENSE)
